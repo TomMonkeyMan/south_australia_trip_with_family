@@ -13,3 +13,9 @@ route:
 - Hahndorf 离 阿德莱德 30km
 - Kangaroo Island 袋鼠岛 for 2 days & nights
 - 莫纳托动物园 阿德莱德60分钟 + 格雷尔海滩 food
+
+
+reference：
+
+https://www.australia.cn/zh-cn/places/adelaide-and-surrounds/guide-to-the-eyre-peninsula.html
+https://southaustralia.com
