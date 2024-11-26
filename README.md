@@ -7,6 +7,7 @@ accommodation: airbnb&hotels
 transportation: rent a car. herz or sixT, get the driver license
 
 route: 
+- 北京出发
 - 起点为墨尔本，然后飞阿德
 - 阿德莱德 做为大本营 辐射着玩
 - Hahndorf 离 阿德莱德 30km
