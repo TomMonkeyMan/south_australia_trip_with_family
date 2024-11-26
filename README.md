@@ -7,8 +7,8 @@ accommodation: airbnb&hotels
 transportation: rent a car. herz or sixT, get the driver license
 
 route: 
-- 起点为墨尔本，然后飞
-- 阿德莱德
+- 起点为墨尔本，然后飞阿德
+- 阿德莱德 做为大本营 辐射着玩
 - Hahndorf 离 阿德莱德 30km
 - Kangaroo Island 袋鼠岛 for 2 days & nights
 - 莫纳托动物园 阿德莱德60分钟 + 格雷尔海滩 food
