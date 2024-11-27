@@ -15,6 +15,13 @@ route:
 - 莫纳托动物园 阿德莱德60分钟 + 格雷尔海滩 food
 
 
+medical asssitance:
+1型糖尿病-需要当地的CP开prescription
+
+English version of medical records + doctors letter
+
+
+
 reference：
 
 https://www.australia.cn/zh-cn/places/adelaide-and-surrounds/guide-to-the-eyre-peninsula.html
