@@ -16,7 +16,7 @@ route:
 
 
 medical asssitance:
-1型糖尿病-需要当地的CP开prescription
+none，需要老爸监测血糖。
 
 English version of medical records + doctors letter
 
