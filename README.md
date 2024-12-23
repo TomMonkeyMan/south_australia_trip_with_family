@@ -44,8 +44,10 @@ Melbourne to Beijing: Feb. 6th 20:45 to 04:55
 
 ```
 Jan 28th: Melbourne
-Arrival on Melbourne.
+Arrival on Melbourne. Hotel: Le Méridien Melbourne, 20 Bourke St
 ```
+
+
 
 ```
 Jan 29th: Melbourne/Adelaide
