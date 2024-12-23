@@ -1,5 +1,5 @@
 # south_australia_trip_with_family
-my plans &amp; route
+my plans & route
 
 
 accommodation: airbnb&hotels
@@ -27,3 +27,59 @@ reference：
 https://www.australia.cn/zh-cn/places/adelaide-and-surrounds/guide-to-the-eyre-peninsula.html
 
 https://southaustralia.com
+
+
+
+## detailed confirmed issues:
+
+1. visa has been confrimed
+2. flights have been confirmed:
+
+Beijing to Melbourne: Jan. 28th 1:00 to 15:45
+Melbourne to Beijing: Feb. 6th 20:45 to 04:55
+
+
+
+##Trip Details:
+
+```
+Jan 28th: Melbourne
+Arrival on Melbourne.
+```
+
+```
+Jan 29th: Melbourne/Adelaide
+Heading to Adelaide.
+```
+
+```
+Jan 30th: Adelaide
+```
+
+```
+Jan 31th: Adelaide
+```
+
+```
+Feb 1st: Kangaroo Island
+```
+
+```
+Feb 2nd: Kangaroo Island
+```
+
+```
+Feb 3rd: Kangaroo Island
+```
+
+```
+Feb 4th: Adelaide
+```
+
+```
+Feb 5th: Adelaide/Melbourne
+Back to Melbourne.
+```
+
+Feb 6th:
+Back to Beijing.
