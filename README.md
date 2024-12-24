@@ -39,7 +39,8 @@ to be done:
 2. flights have been confirmed:
 
 Beijing to Melbourne: Jan. 28th 1:00 to 15:45 airchina offical website
-Moelbourne to Adelaide: Jan. 29th 12:25 to 13:20
+
+Moelbourne to Adelaide: Jan. 29th 12:25 to 13:20 qantas offical website
 
 
 Melbourne to Beijing: Feb. 6th 20:45 to 04:55 airchina offical website
