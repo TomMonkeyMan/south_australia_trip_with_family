@@ -29,14 +29,19 @@ https://www.australia.cn/zh-cn/places/adelaide-and-surrounds/guide-to-the-eyre-p
 https://southaustralia.com
 
 
+to be done:
+1. register mom and dad, Qatas membership. for 32kg checked baggage.
+
 
 ## detailed confirmed issues:
 
 1. visa has been confrimed
 2. flights have been confirmed:
 
-Beijing to Melbourne: Jan. 28th 1:00 to 15:45
-Melbourne to Beijing: Feb. 6th 20:45 to 04:55
+Beijing to Melbourne: Jan. 28th 1:00 to 15:45 airchina offical website
+Moelbourne to Adelaide: Jan. 29th 
+
+Melbourne to Beijing: Feb. 6th 20:45 to 04:55 airchina offical website
 
 
 
@@ -79,9 +84,9 @@ Feb 4th: Adelaide
 ```
 
 ```
-Feb 5th: Adelaide/Melbourne
-Back to Melbourne.
+Feb 5th: Adelaide
+
 ```
 
-Feb 6th:
+Feb 6th: Adelaide to Melbourne to Beijing
 Back to Beijing.
