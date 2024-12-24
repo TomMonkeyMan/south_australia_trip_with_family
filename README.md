@@ -59,7 +59,7 @@ Jan 30th: Adelaide
 ```
 
 ```
-Jan 31th: Adelaide
+Jan 31th: Kangaroo Island
 ```
 
 ```
@@ -71,7 +71,7 @@ Feb 2nd: Kangaroo Island
 ```
 
 ```
-Feb 3rd: Kangaroo Island
+Feb 3rd: Adelaide
 ```
 
 ```
