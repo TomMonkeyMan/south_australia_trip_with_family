@@ -37,10 +37,11 @@ to be done:
 
 1. visa has been confrimed
 2. flights have been confirmed:
-
+=====================================================================
 Beijing to Melbourne: Jan. 28th 1:00 to 15:45 airchina offical website
-
+=====================================================================
 Moelbourne to Adelaide: Jan. 29th 12:25 to 13:20 qantas offical website
+=====================================================================
 
 Rental cars: sixT, VM Guantu SUV
 
@@ -48,10 +49,11 @@ Pickup Adelaide Airport Sun, 29 December 2024 at 2:00 pm
 
 Return Adelaide Airport Mon, 6 January 2025 at 2:00 pm
 
+=====================================================================
 Adelaide to Moelbourne: Feb.6th 14:00 to 15:50 qantas offical website
-
+=====================================================================
 Melbourne to Beijing: Feb. 6th 20:45 to 04:55 airchina offical website
-
+=====================================================================
 
 
 ##Trip Details:
