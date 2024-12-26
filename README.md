@@ -60,45 +60,46 @@ Melbourne to Beijing: Feb. 6th 20:45 to 04:55 airchina offical website
 ## Trip Details:
 
 ```
-Jan 28th: Melbourne
+Jan 28th: Melbourne (Stay in Melbourne)
 Arrival on Melbourne. Hotel: Le Méridien Melbourne, 20 Bourke St
 ```
 
 
 
 ```
-Jan 29th: Melbourne/Adelaide
+Jan 29th: Melbourne/Adelaide (Stay in Adelaide)
 Heading to Adelaide.
 ```
 
 ```
-Jan 30th: Adelaide
+Jan 30th: Adelaide (Stay in Adelaide)
 ```
 
 ```
-Jan 31th: Kangaroo Island
+Jan 31th: Adelaide/Kangaroo Island (Stay in KI)
+Heading to Kangaroo Island From Adelaide
 ```
 
 ```
-Feb 1st: Kangaroo Island
+Feb 1st: Kangaroo Island (Stay in KI)
 
 Kangaroo Island Wildlife Park
 ```
 
 ```
-Feb 2nd: Kangaroo Island
+Feb 2nd: Kangaroo Island (Stay in KI)
 ```
 
 ```
-Feb 3rd: Adelaide
+Feb 3rd: Kangaroo Island/Adelaide (Stay in Adelaide)
 ```
 
 ```
-Feb 4th: Adelaide
+Feb 4th: Adelaide (Stay in Adelaide)
 ```
 
 ```
-Feb 5th: Adelaide
+Feb 5th: Adelaide (Stay in Adelaide)
 
 ```
 
