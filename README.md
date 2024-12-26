@@ -57,7 +57,7 @@ Melbourne to Beijing: Feb. 6th 20:45 to 04:55 airchina offical website
 <br>
 
 
-##Trip Details:
+## Trip Details:
 
 ```
 Jan 28th: Melbourne
