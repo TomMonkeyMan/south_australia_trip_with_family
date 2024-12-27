@@ -120,4 +120,4 @@ Back to Beijing.
 Kangaroo Island thing:
 
 1. the area ferry arrives is Penneshaw, another big area is called Kingscote.
-2. 
+2. check my thread: https://www.reddit.com/r/Adelaide/comments/1hlxere/need_advice_is_a_4wd_necessary_for_a_3day_trip_to/ 
