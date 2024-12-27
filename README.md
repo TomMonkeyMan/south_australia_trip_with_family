@@ -83,7 +83,7 @@ Heading to Kangaroo Island From Adelaide
 ```
 Feb 1st: Kangaroo Island (Stay in KI)
 
-Kangaroo Island Wildlife Park
+
 ```
 
 ```
@@ -96,6 +96,7 @@ Feb 3rd: Kangaroo Island/Adelaide (Stay in Adelaide)
 
 ```
 Feb 4th: Adelaide (Stay in Adelaide)
+Gorge Wildlife Park 9:00
 ```
 
 ```
