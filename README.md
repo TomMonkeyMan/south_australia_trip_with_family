@@ -48,6 +48,15 @@ Rental cars: sixT, VM Guantu SUV
 
 Pickup Adelaide Airport Sun, 29 December 2024 at 2:00 pm
 
+
+Ferry to KI
+
+Jan 31. 1 p.m. departure
+Feb 3. 11 a.m departure
+
+
+Rental cars: sixT, VM Guantu SUV
+
 Return Adelaide Airport Mon, 6 January 2025 at 2:00 pm
 
 <br>
