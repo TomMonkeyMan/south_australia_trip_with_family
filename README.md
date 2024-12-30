@@ -114,9 +114,10 @@ Feb 5th: Adelaide (Stay in Adelaide)
 
 ```
 
+```
 Feb 6th: Adelaide to Melbourne to Beijing
 Back to Beijing.
-
+```
 
 Kangaroo Island thing:
 
