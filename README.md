@@ -106,6 +106,7 @@ Feb 3rd: Kangaroo Island/Adelaide (Stay in Adelaide)
 ```
 Feb 4th: Adelaide (Stay in Adelaide)
 Gorge Wildlife Park 9:00
+Quokka Encounter 10:30 
 ```
 
 ```
