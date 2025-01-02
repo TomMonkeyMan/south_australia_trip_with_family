@@ -52,6 +52,7 @@ Pickup Adelaide Airport Sun, 29 December 2024 at 2:00 pm
 Ferry to KI
 
 Jan 31. 1 p.m. departure
+
 Feb 3. 11 a.m departure
 
 
